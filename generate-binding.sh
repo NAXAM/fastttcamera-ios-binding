@@ -1,0 +1,1 @@
+sharpie bind -sdk iphoneos ./frameworks/FastttCamera/*.h -o ./bindings/FastttCamera -n FastttCameraLib
