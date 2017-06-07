@@ -12,7 +12,7 @@ Install-Package Naxam.FastttCamera.iOS
 - Change new Scheme to `Release` then *BUILD*
 
 ## Verify if binding needs to be updated
-- Copy A file and H files to bindings folder
+- Copy A file and H files to frameworks/FastttCamera folder
 - Run `generate-binding.sh` script
 - Check `git` if there are any changes with binding definitions
 - If not, just build the solution to get the latest version update and runing
