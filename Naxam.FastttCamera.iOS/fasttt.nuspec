@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>Naxam.FastttCamera.iOS</id>
+        <version>0.3.4</version>
+        <description>Xamarin Binding Library - FastttCamera</description>
+        <authors>Vu Duc Tuyen</authors>
+        <owners>NAXAM CO.,LTD</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <title>Naxam - FastttCamera</title>
+        <releaseNotes>FastttCamera v0.3.4</releaseNotes>
+        <summary>Xamarin Binding Library - FastttCamera</summary>
+        <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>https://github.com/NAXAM/fastttcamera-ios-binding/Naxam.FastttCamera.iOS</projectUrl>
+        <copyright>Copyright (c) 2017 NAXAM</copyright>
+        <tags>Xamarin.iOS, fastttcamera, camera</tags>
+    </metadata>
+    <!-- Optional 'files' node -->
+    <files>
+        <file src="Naxam.FastttCamera.iOS/bin/Release/Naxam.FastttCamera.iOS.dll" target="lib/Xamarin.iOS10/Naxam.FastttCamera.iOS.dll" />
+    </files>
+</package>

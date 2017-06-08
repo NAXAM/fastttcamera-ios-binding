@@ -51,7 +51,7 @@ function build() {
     cp -r "${UNIVERSAL_LIBRARY_DIR}" "$OUTPUT_DIR"
 }
 
-frameworks=(FastttCamera)
+frameworks=(FastttCameraFilters)
 for framework in "${frameworks[@]}"
 do
 build $framework
